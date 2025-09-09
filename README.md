@@ -3,8 +3,8 @@
 ## Group 3
 - [Najla Alhusaini] — [445201349]
 - [Tala Alqahtani] — [445204552]
-- [Latifah Alseef] — [445202258]
-- [Yara zackzouck] — [445204423]
+- [Latifah Alseef] — [445202258
+- [Yara zakzouk] — [445204423]
 
 ## Project Objective
 Our project aims to **classify telecom customers into categories (Churn: Yes / No)** and **cluster similar customers** based on their demographic information and service usage.  
