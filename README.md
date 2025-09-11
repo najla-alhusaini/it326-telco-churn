@@ -3,7 +3,7 @@
 ## Group 3
 - [Najla Alhusaini] — [445201349]
 - [Tala Alqahtani] — [445204552]
-- [Latifah Alsaif] — [445202258
+- [Latifah Alsaif] — [445202258]
 - [Yara zakzouk] — [445204423]
 
 ## Project Objective
