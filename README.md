@@ -7,7 +7,7 @@
 - [Yara zakzouk] — [445204423]
 
 ## Project Objective
-Our project aims to *classify* telecom customers into categories (Churn: Yes / No)** and *cluster similar customers* based on their demographic information and service usage.  
+Our project aims to *classify* telecom customers into categories (Churn: Yes / No) and *cluster similar customers* based on their demographic information and service usage.  
 The problem we want to solve: predicting whether a customer will leave the company (churn) or stay, and identifying groups of customers with similar patterns.
 
 ## Project Motivation
