@@ -1,6 +1,7 @@
 # Telecom Customer Churn Prediction — IT326
 
 ## Group 3
+### Group members
 - [Najla Alhusaini] — [445201349]
 - [Tala Alqahtani] — [445204552]
 - [Latifah Alsaif] — [445202258]
