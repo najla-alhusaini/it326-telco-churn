@@ -44,19 +44,18 @@ Course project for **IT326 – Data Mining**, King Saud University.
 
 ## Repository structure
 
-```
 ├── Dataset/
 │   ├── Raw_dataset.csv            # original Kaggle data
 │   ├── Preprocessed_dataset.csv   # output of Phase 2, input of Phase 3
-│   └── Research paper.pdf.pdf     # reference paper (Ahmad et al., 2019)
+│   └── Research paper.pdf         # reference paper (Ahmad et al., 2019)
 ├── Reports/
 │   ├── Phase1.ipynb               # dataset overview
 │   ├── Phase2.ipynb               # summarisation and preprocessing
 │   ├── Phase3.ipynb               # full report: classification, clustering, findings
-│   └── IT326.pdf                  # course report
+│   └── IT326.pdf                  # original course submission (see note below)
 └── requirements.txt
-```
-
+> Note on `IT326.pdf`: this is the report as originally submitted for the course. It selects models by accuracy, which is misleading on this imbalanced dataset. The notebooks have since been updated to use imbalance-aware metrics, so where the two disagree, Reports/Phase3.ipynb and the results above are the current version.
+> 
 ## Run it
 
 Open any notebook in Colab with the badge at the top, or locally:
