@@ -68,10 +68,17 @@ jupyter notebook Reports/Phase3.ipynb
 
 The notebooks read the data from `Dataset/` when the repository is cloned and fall back to the GitHub copy otherwise.
 
-## Team (Group 3)
+## Team Members & Contributions
 
-Najla Alhusaini · Tala Alqahtani · Latifah Alsaif · Yara Zakzouk
+This project was collaboratively developed by four Information Technology students at King Saud University as part of the IT326 Data Mining course.
 
+All team members contributed throughout the project, including data exploration, preprocessing, classification using Decision Trees, clustering using K-Means, model evaluation, and documentation.
+
+### Team Members
+- **Yara Zakzouk**
+- **Najla Alhusaini**
+- **Latifah Alsaif**
+- **Tala Alqahtani**
 ## Reference
 
 A. K. Ahmad, A. Jafar, and K. Aljoumaa, "Customer churn prediction in telecom using machine learning in big data platform," *Journal of Big Data*, vol. 6, no. 28, 2019.
