@@ -28,7 +28,7 @@ Course project for **IT326 – Data Mining**, King Saud University.
 | Contract | Month-to-month customers churn at 42.7%, vs 11.3% (one-year) and 2.8% (two-year). The most important feature in the tree (~66% of importance). |
 | Online security | Month-to-month customers without online security form the highest-risk branch. |
 | Tenure | Risk is concentrated in the first ~10 months. |
-| Internet service | Fiber-optic customers churn at 41.9%, vs 18.9% for DSL. |
+| Internet service | Fiber-optic customers churn at 41.9%, vs 19.0% for DSL. |
 | Clustering (K = 2) | Isolates customers without internet service, a low-risk segment (7.4% churn vs 31.8%). |
 
 ## Dataset
